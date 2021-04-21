@@ -1,7 +1,7 @@
 # logic-gates
 Playing around with logic gates. The main idea is to gain a better understanding of how some lower levels of computers work
 
-# First Test - Addition:
+# first test - addition:
   I started by just playing around and testing some different things, and then I went into pattern recognition mode where I purposefully looked at each different outcome of different cases and looked at them.
   From there I tried to just connect different things in order to get a correct connection for the first level
   
